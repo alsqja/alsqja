@@ -36,12 +36,24 @@
 <!--Studying-->
 <h3 align="center">Studying</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/spring_security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/MSA-FF4088.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-FF5722.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-0078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agent AI-4285F4.svg?style=for-the-badge&logo=googleassistant&logoColor=white"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 <!--Tool-->
 <h3 align="center">Tool</h3>
@@ -56,6 +68,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 <br><br>
 <div align="center">
